@@ -1,0 +1,99 @@
+charts/opentelemetry-kube-stack/examples/cloud-demo/rendered/bridge.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 8
+charts/opentelemetry-kube-stack/examples/cloud-demo/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+charts/opentelemetry-kube-stack/examples/no-leader-election-extension/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9,176
+charts/opentelemetry-kube-stack/examples/isolated-multicollector-deployment/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/Chart.yaml
+  s_5735d2012c8daf::t_d1d0ccdd0dce71 3
+charts/opentelemetry-kube-stack/examples/isolated-distribution-host-profiler/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9,528
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-proxy/service.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-api-server/servicemonitor.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/default/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/daemonset-annotation-discovery-logs/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-scheduler/servicemonitor.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-scheduler/service.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/daemonset-annotation-discovery/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+charts/opentelemetry-kube-stack/examples/cloud-demo/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/daemonset-prometheus-presets/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-controller-manager/servicemonitor.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/secrets-csi-driver/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/default/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+charts/opentelemetry-kube-stack/examples/daemonset-kubernetes-objects/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/isolated-multicollector-deployment/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9,235,368
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-dns/servicemonitor.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+charts/opentelemetry-kube-stack/examples/daemonset-kubernetes-objects/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+charts/opentelemetry-kube-stack/examples/no-leader-election-extension/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/cloud-demo/rendered/instrumentation.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-controller-manager/service.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/global-resource-attributes/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9,194
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/isolated-distribution-host-profiler/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/daemonset-annotation-discovery-logs/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+charts/opentelemetry-kube-stack/examples/global-resource-attributes/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/daemonset-annotation-discovery-metrics/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-proxy/servicemonitor.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/daemonset-annotation-discovery-metrics/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+charts/opentelemetry-kube-stack/examples/daemonset-prometheus-presets/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-dns/service.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-etcd/service.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/daemonset-annotation-discovery/rendered/hooks.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 68
+charts/opentelemetry-kube-stack/examples/prometheus-otel/rendered/exporters/kube-etcd/servicemonitor.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 10
+charts/opentelemetry-kube-stack/examples/global-resource-attributes/rendered/instrumentation.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+charts/opentelemetry-kube-stack/examples/secrets-csi-driver/rendered/collector.yaml
+  s_5735d2012c8daf::t_a096a54e63e26e 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "999227db9daff1bb0631bd27e262eb059b010532",
+  "prompts": {},
+  "sessions": {
+    "s_5735d2012c8daf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "15fbbdbf-fb5e-4ec9-96f8-ea253fb763da",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Aryan Patel <aryanpatel6215@gmail.com>"
+    }
+  }
+}
